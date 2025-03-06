@@ -59,7 +59,7 @@ export default function Sidebar({ collapsed, setCollapsed }: SidebarProps) {
               <div className="flex h-8 w-8 items-center justify-center rounded-full bg-primary text-white">
                 <Sparkles size={18} />
               </div>
-              <span className="font-semibold">MarketMaster</span>
+              <span className="font-semibold">Cificap AI</span>
             </div>
           )}
           {collapsed && (
